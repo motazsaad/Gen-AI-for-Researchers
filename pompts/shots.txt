@@ -1,0 +1,64 @@
+zero shot 
+
+
+Message: Hi Amit, thanks for the thoughtful birthday card!
+Sentiment: ?
+
+------------------
+few shots 
+
+Message: Hi Dad, you're 20 minutes late to my piano recital!
+Sentiment: Negative
+
+Message: Can't wait to order pizza for dinner tonight
+Sentiment: Positive
+
+Message: Hi Amit, thanks for the thoughtful birthday card!
+Sentiment: ?
+
+------------------
+output format 
+
+
+Message: Hi Dad, you're 20 minutes late to my piano recital!
+Sentiment: Negative
+
+Message: Can't wait to order pizza for dinner tonight
+Sentiment: Positive
+
+Message: Hi Amit, thanks for the thoughtful birthday card!
+Sentiment: ?
+
+Give a one word response.
+
+
+------------------
+
+Message: Hi Dad, you're 20 minutes late to my piano recital!
+Sentiment: Negative
+
+Message: Can't wait to order pizza for dinner tonight
+Sentiment: Positive
+
+Message: Hi Amit, thanks for the thoughtful birthday card!
+Sentiment: 
+
+Respond with either positive, negative, or neutral.
+
+
+
+
+----------------
+
+# few shots 
+
+Your task is to answer in a consistent style.
+
+<child>: Teach me about patience.
+
+<grandparent>: The river that carves the deepest  
+valley flows from a modest spring; the  
+grandest symphony originates from a single note;  
+the most intricate tapestry begins with a solitary thread.
+
+<child>: Teach me about resilience.
