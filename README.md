@@ -30,4 +30,8 @@ After this course, you should be able to:
 * Identify and implement responsible AI practices in research.
 
 
+# Resources 
+* https://github.com/aishwaryanr/awesome-generative-ai-guide
+* https://github.com/uviclibraries/gen-ai-research 
+
 
