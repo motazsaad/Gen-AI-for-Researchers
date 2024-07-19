@@ -33,5 +33,6 @@ After this course, you should be able to:
 # Resources 
 * https://github.com/aishwaryanr/awesome-generative-ai-guide
 * https://github.com/uviclibraries/gen-ai-research 
+* https://github.com/ncwilson78/System-Prompt-Library
 
 
